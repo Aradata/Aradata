@@ -8,8 +8,16 @@ ________________________________________________________________________________
 - 🌱 **Learning**: Always exploring new concepts and technologies in the field of data science.
 - 👀 **Interests** I’m interested in Micorsoft excel, Python, Tableau, MySQL, AI, along with the AP domain.
 
-- 
-- 📫 How to reach me ...
+**- Contact Information**- _________________________________________________________________________________________________________________________________________________________________________________________
+- Feel free to reach out to me if you have interesting projects or opportunities!
+📧 Email: ardhay07@gmail.com
+📱 Phone: +91 7838641342
+
+**📫 How to Reach Me** ___________________________________________________________________________________________________________________________________________________________________________________________
+If you're interested in collaborating or have a project in mind, please don't hesitate to get in touch. I'm excited to explore new opportunities and contribute to innovative projects in the world of data science!
+
+
+
 
 <!---
 Aradata/Aradata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
