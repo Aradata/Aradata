@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 
 
---->>>**- Contact Information**- 
+--->>>**-!! Contact Information !!**- 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 - Feel free to reach out to me if you have interesting projects or opportunities!
   
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 
 
---->>>**📫 How to Reach Me** 
+--->>>**📫!! How to Reach Me !!** 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 If you're interested in collaborating or have a project in mind, please don't hesitate to get in touch. I'm excited to explore new opportunities and contribute to innovative projects in the world of data science!
 
