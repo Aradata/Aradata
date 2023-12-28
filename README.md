@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 --->>>**!! About Me !!**
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-- 💼 **Currently** Assistant Manager at Genpact Noida, India!!
+- 💼 **Currently** Assistant Manager at Genpact, India!!
 - 🌱 **Learning**: Always exploring new concepts and technologies in the field of data science.
 - 👀 **Interests** I’m interested in Micorsoft excel, Python, Tableau, MySQL, AI, along with the AP domain.
 
